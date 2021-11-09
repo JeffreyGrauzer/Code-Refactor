@@ -8,7 +8,6 @@ A website for the company, Horiseon.
 * CSS
 
 ## Website
-https: //JeffreyGrauzer.github.io/Code-Refactor
-
+https://jeffreygrauzer.github.io/Code-Refactor/
 ## Contribution
 Made with love by Jeffrey Grauzer
