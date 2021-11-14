@@ -1,13 +1,14 @@
+/* This is an universal attribute */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* These are attributes for the body section */
 body {
     background-color: #d9dcd6;
 }
-
+/* These are attributes for the header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +41,7 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Header attributes end here */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* These are attributes for our hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -126,7 +127,8 @@ p {
     font-size: 36px;
 }
 
-
+/* body attributes end here */
+/* These are the attributes for our footer section */
 footer {
     padding: 30px;
     clear: both;
